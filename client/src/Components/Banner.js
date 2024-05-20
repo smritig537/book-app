@@ -1,15 +1,15 @@
 import React from 'react'
-import Pic from '../Components/2208.i305.025.F.m005.c9.realistic book lover.jpg';
+import Pic from './bg_Book.png';
 const Banner = () => {
   return (
     <>
     <div className='bg-white dark:bg-slate-700'>
     <div className='container flex flex-col px-4 mx-auto dark:bg-white max-w-screen-2xl md:px-20xl sm:flex-row md:flex-row bg-slate-700' >
-    <div className='order-2 w-full mt-12 md:w-1/2 md:mt-32 md:order-1'>
+    <div className='order-2 w-full mt-12 mb-12 md:w-1/2 md:mt-32 md:order-1'>
    <div className='space-y-6'>
    <h1 className='text-4xl font-bold dark:text-black'>
-   Hello, Welcomes here to learn something
-    <span className='text-pink-500'>new everyday!!!</span></h1>
+   Hello, Welcomes here to learn something 
+   <span className='ml-1 text-pink-500'>new everyday!!!</span></h1>
    <p className='text-xl text-justify dark:text-black'>
    The bookshelf stands as a testament to the wonders of literature, holding within its wooden frame a treasure trove of stories and knowledge. Each book is a gateway to new worlds, offering adventure, wisdom, and escape to those who dare to explore its shelves.
    </p>

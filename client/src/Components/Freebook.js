@@ -61,7 +61,7 @@ function Freebook() {
   return (
     <>
       <div className="container px-4 mx-auto max-w-screen-2xl md:px-20 bg-slate-800 dark:bg-gray-200" >
-        <div>
+        <div className="pt-3">
           <h1 className="pb-2 text-xl font-semibold text-white dark:text-black">Free Offered Courses</h1>
           <p className="text-white dark:text-black">
           Free courses, available online, cover various subjects from academic to practical skills. Offered by universities, nonprofits, and online platforms, they democratize learning by removing financial barriers. However, learners should verify the credibility of providers for quality content.
