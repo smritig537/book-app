@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"In a world where magic is forbidden, a young orphan discovers she possesses extraordinary powers and must embark on a perilous journey to uncover her true identity while evading the clutches of a tyrannical regime",
+        "Price":0,
+        "category":"Free",
+        "image":"https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books_24005140.htm#fromView=search&page=1&position=30&uuid=5927c754-0571-4a84-a769-0f400cfbd1ee"
+    },
+    {
+        "id":2,
+        "name":"Comedy Book",
+        "title":"In a world where magic is forbidden, a young orphan discovers she possesses extraordinary powers and must embark on a perilous journey to uncover her true identity while evading the clutches of a tyrannical regime",
+        "Price":20,
+        "category":"Entertainment",
+        "image":"https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books_24005140.htm#fromView=search&page=1&position=30&uuid=5927c754-0571-4a84-a769-0f400cfbd1ee"
+    },
+    {
+        "id":3,
+        "name":"Sports Book",
+        "title":"In a world where magic is forbidden, a young orphan discovers she possesses extraordinary powers and must embark on a perilous journey to uncover her true identity while evading the clutches of a tyrannical regime",
+        "Price":50,
+        "category":"Sports",
+        "image":"https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books_24005140.htm#fromView=search&page=1&position=30&uuid=5927c754-0571-4a84-a769-0f400cfbd1ee"
+    },
+    {
+        "id":5,
+        "name":"Music Book",
+        "title":"In a world where magic is forbidden, a young orphan discovers she possesses extraordinary powers and must embark on a perilous journey to uncover her true identity while evading the clutches of a tyrannical regime",
+        "Price":100,
+        "category":"Song",
+        "image":"https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books_24005140.htm#fromView=search&page=1&position=30&uuid=5927c754-0571-4a84-a769-0f400cfbd1ee"
+    },
+    {
+        "id":5,
+        "name":"Food Book",
+        "title":"In a world where magic is forbidden, a young orphan discovers she possesses extraordinary powers and must embark on a perilous journey to uncover her true identity while evading the clutches of a tyrannical regime",
+        "Price":20,
+        "category":"Food",
+        "image":"https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books_24005140.htm#fromView=search&page=1&position=30&uuid=5927c754-0571-4a84-a769-0f400cfbd1ee"
+    },
+    {
+        "id":6,
+        "name":"Music Book",
+        "title":"In a world where magic is forbidden, a young orphan discovers she possesses extraordinary powers and must embark on a perilous journey to uncover her true identity while evading the clutches of a tyrannical regime",
+        "Price":100,
+        "category":"Song",
+        "image":"https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books_24005140.htm#fromView=search&page=1&position=30&uuid=5927c754-0571-4a84-a769-0f400cfbd1ee"
+    }
+]
